@@ -6,7 +6,7 @@ int main()
     char operador;
     int num1, num2;
     printf("Programa: Calculadora:\n");
-    printf("Digite a operacao que deseja realizar: +(soma) -(subtracao) *(multiplicacao) /(divisao)\n")
+    printf("Digite a operacao que deseja realizar: +(soma) -(subtracao) *(multiplicacao) /(divisao)\n");
     scanf("%c", &operador);
     printf("Digite o primeiro numero:\n");
     scanf("%d", &num1);
